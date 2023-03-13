@@ -62,7 +62,7 @@ const Movies = () => {
 				</Stack>
 				<Stack textAlign={"center"} spacing={4}>
 					<Text fontWeight={"bold"} fontSize={25}>
-						There's even more to watch
+						There is even more to watch
 					</Text>
 					<Text fontWeight={"md"}>
 						Cineroom has an extensive library of feature films, documentaries,
