@@ -21,7 +21,12 @@ const Crime = () => {
 							<Text fontSize={20}>CRIME</Text>
 							{crimeMovies.map((movie) => (
 								<>
-									<Image src={movie.Poster} height={180} width={200} />
+									<Image
+										src={movie.Poster}
+										height={180}
+										width={200}
+										alt="movie-banner"
+									/>
 									<Box fontSize={13}>
 										<Text px="10" fontSize={15}>
 											{movie.Title}

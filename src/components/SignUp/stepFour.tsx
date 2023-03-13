@@ -52,7 +52,7 @@ const StepFour = () => {
 		<Stack spacing={3}>
 			<Text>STEP 4 OF 4</Text>
 			<Text fontSize={"2xl"} fontWeight="bold">
-				Choose the plan that's right for you.
+				Choose the plan that is right for you.
 			</Text>
 			<Flex alignItems={"center"} fontSize={18}>
 				<CheckIcon color={"red"} mr="2" />

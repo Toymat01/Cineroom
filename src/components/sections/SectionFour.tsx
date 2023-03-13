@@ -27,7 +27,7 @@ const SectionFour = () => {
 								fontSize="20"
 								fontWeight="bold"
 							>
-								What's is Cineroom
+								What is Cineroom
 							</Box>
 							<AccordionIcon />
 						</AccordionButton>

@@ -20,7 +20,12 @@ const Africa = () => {
 						<Text fontSize={20}>Africa</Text>
 						{Africa.map((movie) => (
 							<>
-								<Image src={movie.Poster} height={150} width={200} />
+								<Image
+									src={movie.Poster}
+									height={150}
+									width={200}
+									alt="movie-banner"
+								/>
 								<Text px="10" fontSize={15}>
 									{movie.Title}
 								</Text>

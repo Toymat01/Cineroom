@@ -23,7 +23,7 @@ const Login = () => {
 	const { isOpen, onClose, onOpen } = useDisclosure();
 	useEffect(() => {
 		onOpen();
-	}, []);
+	}, [onOpen]);
 
 	return (
 		<>

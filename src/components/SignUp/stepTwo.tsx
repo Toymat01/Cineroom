@@ -19,7 +19,7 @@ const StepTwo = ({ handleStep }: stepProp) => {
 				Create a password to start <br /> your membership
 			</Text>
 			<Text my="1">
-				Just a few more steps and you're done! <br />
+				Just a few more steps and you are done! <br />
 				We hate paperwork, too.
 			</Text>
 			{/* <FormControl> */}

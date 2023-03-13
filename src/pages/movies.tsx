@@ -37,7 +37,7 @@ const Movies = () => {
 			<Box p="5">
 				<Heading>Only on Cineroom</Heading>
 				<Text my="5">
-					Cineroom is the home of amazing original programming that you can’t
+					Cineroom is the home of amazing original programming that you can not.
 					<br />
 					find anywhere else. Movies, TV shows, specials and more, all tailored
 					<br />
