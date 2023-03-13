@@ -8,7 +8,7 @@ const Slider = dynamic(() => import("react-slick").then((m) => m.default), {
 	ssr: false,
 });
 
-const url = "http://www.omdbapi.com/?i=tt3896198&apikey=e5ecb81a&s=africa";
+const url = "https://www.omdbapi.com/?i=tt3896198&apikey=e5ecb81a&s=africa";
 const Africa = () => {
 	const { data: Africa } = useFetch({ url });
 

@@ -15,7 +15,7 @@ import {
 } from "@chakra-ui/react";
 import Link from "next/link";
 
-const url = "http://www.omdbapi.com/?i=tt3896198&apikey=e5ecb81a&s=africa";
+const url = "https://www.omdbapi.com/?i=tt3896198&apikey=e5ecb81a&s=africa";
 
 const Movies = () => {
 	const { data, loading, error } = useFetch({ url });
